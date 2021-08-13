@@ -1,0 +1,7 @@
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter5-Repo\ArrayAndCollections\ArrayAndCollections\bin\Debug\ArrayAndCollections.exe.config
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter5-Repo\ArrayAndCollections\ArrayAndCollections\bin\Debug\ArrayAndCollections.exe
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter5-Repo\ArrayAndCollections\ArrayAndCollections\bin\Debug\ArrayAndCollections.pdb
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter5-Repo\ArrayAndCollections\ArrayAndCollections\obj\Debug\ArrayAndCollections.csprojAssemblyReference.cache
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter5-Repo\ArrayAndCollections\ArrayAndCollections\obj\Debug\ArrayAndCollections.csproj.CoreCompileInputs.cache
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter5-Repo\ArrayAndCollections\ArrayAndCollections\obj\Debug\ArrayAndCollections.exe
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter5-Repo\ArrayAndCollections\ArrayAndCollections\obj\Debug\ArrayAndCollections.pdb

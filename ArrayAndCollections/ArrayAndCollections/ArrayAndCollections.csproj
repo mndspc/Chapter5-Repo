@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>ArrayAndCollections.GenericListWithUserDefinedType</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -43,8 +46,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArrayClassDemo.cs" />
+    <Compile Include="ArrayListDemo.cs" />
+    <Compile Include="DictionaryAndSortedListGenericDemo.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="GenericListWithUserDefinedType.cs" />
+    <Compile Include="HashTableAndSortedListDemo.cs" />
+    <Compile Include="JaggedArrayDemo.cs" />
+    <Compile Include="ListGenericDemo.cs" />
+    <Compile Include="MultiDimArrayDemo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QueueAndStackGenericDemo.cs" />
+    <Compile Include="QueueDemo.cs" />
+    <Compile Include="StackDemo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
